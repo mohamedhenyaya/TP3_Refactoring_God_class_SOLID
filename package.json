@@ -1,0 +1,10 @@
+{
+  "name": "tp3-refactoring-god-class-solid",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --test ReportService.caracterisation.test.js ReportService.solid.test.js"
+  }
+}
